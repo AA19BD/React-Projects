@@ -5,3 +5,4 @@
 # Accordion->https://accordion-reactjs-abylay.netlify.app/
 # Menu->https://menu-reactjs-abylay.netlify.app/
 # Tabs->https://tabs-reactjs-abylay.netlify.app/
+# Slider->https://slider-reactjs-abylay.netlify.app/
