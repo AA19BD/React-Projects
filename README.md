@@ -4,3 +4,4 @@
 # Reviews->https://reviews-reactsjs-abylay.netlify.app/
 # Accordion->https://accordion-reactjs-abylay.netlify.app/
 # Menu->https://menu-reactjs-abylay.netlify.app/
+# Tabs->https://tabs-reactjs-abylay.netlify.app/
