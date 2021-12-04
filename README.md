@@ -9,3 +9,4 @@
 # Lorem->https://lorem-reactjs-abylay.netlify.app/
 # Color-Generator->https://color-generator-reactjs-abylay.netlify.app/
 # Grocery-bud->https://grocery-bud-reactjs-abylay.netlify.app/
+# Navbar->https://navbar-reactjs-abylay.netlify.app/
