@@ -10,3 +10,5 @@
 # Color-Generator->https://color-generator-reactjs-abylay.netlify.app/
 # Grocery-bud->https://grocery-bud-reactjs-abylay.netlify.app/
 # Navbar->https://navbar-reactjs-abylay.netlify.app/
+# Sidebar->https://sidebar-reactjs-abylay.netlify.app/
+# Stripe-submenus->https://Stripe-submenus-reactjs-abylay.netlify.app/
