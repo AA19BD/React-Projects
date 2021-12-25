@@ -16,6 +16,6 @@ const postSchema = mongoose.Schema({
   },
 });
 
-const PostMessage = mongoose.model("PostMessage", postSchema); //converting in to model
+var PostMessage = mongoose.model("PostMessage", postSchema); //converting in to model
 
 export default PostMessage;
